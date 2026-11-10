@@ -1,0 +1,6 @@
+Runtime asset credits
+
+Poly Haven source assets and derivatives are CC0: fir_tree_01, fir_sapling_medium, fern_02, tree_stump_01, rock_moss_set_02, forrest_ground_01, sand_03, rock_ground. See https://polyhaven.com/license .
+Quaternius / Poly Pizza exact stage2a fish: CC0.
+Project graphics, fireflies, fire and music are programmatic original work.
+Ten retained underwater media files have unresolved exact provenance/redistribution permissions. The owner authorized this public stakeholder preview with that disclosure; this is not a third-party grant or rights clearance. See PREVIEW_STATUS.md.
