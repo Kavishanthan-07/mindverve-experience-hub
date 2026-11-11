@@ -1,0 +1,285 @@
+{
+  "selfExcluded": true,
+  "files": [
+    {
+      "path": "assets/launcher-Bi7p6Or2.css",
+      "bytes": 3662,
+      "sha256": "d96b3903053c73fa555a543a9e929f381d5357723ec90b203e3a064e6d1a281c"
+    },
+    {
+      "path": "assets/index-DzDG6IVW.js",
+      "bytes": 194,
+      "sha256": "46fc2dd07751ca325f3d3d683c423249f1003bb0e2853ac1d831cf943a4c2e62"
+    },
+    {
+      "path": "assets/index-CdP0-Y8m.js",
+      "bytes": 745,
+      "sha256": "b1312f6c1f4e62016913a076a098aef785a2785f32c383d04b8f7cb48b9be5e3"
+    },
+    {
+      "path": "assets/StakeholderNotices-D0CW-Drk.js",
+      "bytes": 2023140,
+      "sha256": "6ca8cba410b1b2ff8bd01f9909f3134bc575dd275d61b10c5896ce6f5ca0dcc6"
+    },
+    {
+      "path": "assets/MixedRealityPresentation-a7NWcL1h.js",
+      "bytes": 3597,
+      "sha256": "8ea8954ad1d66dd026e4e4f9943baaeec3a54275de84bde0a11d03d8c21fe502"
+    },
+    {
+      "path": "assets/NegativeThoughtsExperience-VXsqeFKT.js",
+      "bytes": 41581,
+      "sha256": "63b281b3634f283871e74f7721628e3d41db153b550f5944cba9f23157473b01"
+    },
+    {
+      "path": "assets/FireflyBreathingSystem-3DNAkuB8.js",
+      "bytes": 59973,
+      "sha256": "9d621be71ade11c8d679457001a7435a8ad8e41e702c775f55bdc9b31024a43b"
+    },
+    {
+      "path": "assets/FireflyInput-CkISnsYy.js",
+      "bytes": 3469,
+      "sha256": "a4d01fdd777961e1f610d33f7ee305038ee27a4549dbbb7f848037007e0f2995"
+    },
+    {
+      "path": "assets/ReefBreathingSystem-CqRBOcRA.js",
+      "bytes": 89692,
+      "sha256": "7bd4928b7a4a567a8d002fcb12a908d7123562845793e741a9a803ded4ffcbbe"
+    },
+    {
+      "path": "assets/BreathEngine-BZWmQbMT.js",
+      "bytes": 926,
+      "sha256": "b84bf22ec72875f2a8e11d9ec47610b073fc125980f226504f53544abef2194c"
+    },
+    {
+      "path": "assets/world-initializer-BQ3Y73bA.js",
+      "bytes": 45235,
+      "sha256": "ececce5da7c0b0176e3dc6f7d59e2df264aad294835db94ccbd21b07427152e8"
+    },
+    {
+      "path": "assets/worker-BkRtSCqm.js",
+      "bytes": 198824,
+      "sha256": "74b3fbbc47142ea53249ee92af5a7b03da129eb0fd46dcc053383b738bd78af4"
+    },
+    {
+      "path": "assets/launcher-ygbFu2Xj.js",
+      "bytes": 4960,
+      "sha256": "0f505b9034d93f4c0f7eb094ce4db429f4bf813639a1feb8ecbf01ca47a9d39e"
+    },
+    {
+      "path": "assets/start-experience-CcWnQfar.js",
+      "bytes": 19142,
+      "sha256": "ddb912e4f51e577043f123ea2dc024338fc60620582ef7b54714a60a1a11a6a8"
+    },
+    {
+      "path": "assets/index-BGKXAl_E.js",
+      "bytes": 21283,
+      "sha256": "f86e81801991aecb54f33d739fe88fa14251f6953c3dacd76033748e769407fd"
+    },
+    {
+      "path": "assets/physics-runtime-yJ2ZI1IS.js",
+      "bytes": 6353,
+      "sha256": "c793eea0eb74baa570482f2c155a9db2fdec71cff048639468aa680e7de541d4"
+    },
+    {
+      "path": "assets/physics-worker-C0UdwKyG.js",
+      "bytes": 7150,
+      "sha256": "a6b2f06867a7755507638b019158e21edf25cf51f37ac6a1754ace0f75c8e13b"
+    },
+    {
+      "path": "scenes/main.iwsdk.scene.json",
+      "bytes": 504,
+      "sha256": "f1bd4056f877273d857be0384dd9b8015dd7cde89ee73be411f797465e0d448a"
+    },
+    {
+      "path": "scenes/negative-thoughts.iwsdk.scene.json",
+      "bytes": 819,
+      "sha256": "8471e1708622ebb4609124189c4836d7902cf27740c3530be5085a7a0fcb1ea8"
+    },
+    {
+      "path": "scenes/negative-thoughts-mr.iwsdk.scene.json",
+      "bytes": 565,
+      "sha256": "ddeda3eb53b167159655780cd608f16bf9fe2cc07eb569c32f585dc40977db65"
+    },
+    {
+      "path": "panoramas/underwater-reef-360.jpg",
+      "bytes": 1084827,
+      "sha256": "9eb01e2fd14b87ffb7e3ba20b29891593e7d475a746db04f08d7084a75e99dd7"
+    },
+    {
+      "path": "licenses/UNDERWATER_360_ASSET.md",
+      "bytes": 1793,
+      "sha256": "b0c29046eebcf759558577aeb1e6e6306f5d6f74a70bc744155dfbe7806a6d4a"
+    },
+    {
+      "path": "licenses/STAKEHOLDER_ASSETS.md",
+      "bytes": 2485,
+      "sha256": "b4f526fa051dc4691a8d7037d02cba56fdf8f15f65ec36108664f89d6e185232"
+    },
+    {
+      "path": "models/lumen-grove/fir_tree_01-a.gltf",
+      "bytes": 6688,
+      "sha256": "ab89531074cb10dc21f95579f9ca8dd2b6308fc7c6265385e1cd74a89e121dcf"
+    },
+    {
+      "path": "models/lumen-grove/fir_tree_01-a-0.bin",
+      "bytes": 1176028,
+      "sha256": "2c319daef12caeca6c36d29f0cd9db2b56f97d79c4b2f998e1cc35c055402b26"
+    },
+    {
+      "path": "models/lumen-grove/fir-shared/4a93dcd8bf6971bef3418f68bfdf1256754f82a3b5c79c88a8d8ee9ae428d4ef.jpg",
+      "bytes": 419922,
+      "sha256": "4a93dcd8bf6971bef3418f68bfdf1256754f82a3b5c79c88a8d8ee9ae428d4ef"
+    },
+    {
+      "path": "models/lumen-grove/fir-shared/f453cc1d7cf5771482902c680c53a96e3bcd90360791b6f5e7e22b0f2acba769.png",
+      "bytes": 1805217,
+      "sha256": "f453cc1d7cf5771482902c680c53a96e3bcd90360791b6f5e7e22b0f2acba769"
+    },
+    {
+      "path": "models/lumen-grove/fir-shared/813d73a3e5ea788130551d6bf9ed6a867d1a12bef44be24853120a3d002e95f8.jpg",
+      "bytes": 233672,
+      "sha256": "813d73a3e5ea788130551d6bf9ed6a867d1a12bef44be24853120a3d002e95f8"
+    },
+    {
+      "path": "models/lumen-grove/fir-shared/f5cfad42d097f216625b0894b40fb4a9733df6a2c41996384d68b18655da2f9f.jpg",
+      "bytes": 369423,
+      "sha256": "f5cfad42d097f216625b0894b40fb4a9733df6a2c41996384d68b18655da2f9f"
+    },
+    {
+      "path": "models/lumen-grove/fir-shared/955ca1c40c81ee5e08840f8a44e2b75369395853886c6b1c8a540aa165f33780.png",
+      "bytes": 2191086,
+      "sha256": "955ca1c40c81ee5e08840f8a44e2b75369395853886c6b1c8a540aa165f33780"
+    },
+    {
+      "path": "models/lumen-grove/fir-shared/f8dea6b9fa275816f7ec5aed6831538de0eda588e1f49bcf166570cbd1d0699c.jpg",
+      "bytes": 243239,
+      "sha256": "f8dea6b9fa275816f7ec5aed6831538de0eda588e1f49bcf166570cbd1d0699c"
+    },
+    {
+      "path": "models/lumen-grove/fir-shared/3f20abbce8ea2cde5c6450187a3e2e0e9ea222bde6f703201025def6755a2a48.jpg",
+      "bytes": 192185,
+      "sha256": "3f20abbce8ea2cde5c6450187a3e2e0e9ea222bde6f703201025def6755a2a48"
+    },
+    {
+      "path": "models/lumen-grove/fir-shared/0609a46ab58d3202a181cebaa1f7789fb7d0ef59c6d45a294958f8608ff85740.png",
+      "bytes": 1196724,
+      "sha256": "0609a46ab58d3202a181cebaa1f7789fb7d0ef59c6d45a294958f8608ff85740"
+    },
+    {
+      "path": "models/lumen-grove/fir-shared/96af54cc654eff53fe6860af3183807f8c795d84eba02f7e281841e5937b1d92.jpg",
+      "bytes": 141414,
+      "sha256": "96af54cc654eff53fe6860af3183807f8c795d84eba02f7e281841e5937b1d92"
+    },
+    {
+      "path": "models/lumen-grove/fir_tree_01-a-middle.gltf",
+      "bytes": 6676,
+      "sha256": "a50f5a3b2ba8fffb712cfd983f0a440314c5591e5d93b1cac32a0e49f6fb35d0"
+    },
+    {
+      "path": "models/lumen-grove/fir_tree_01-a-middle-0.bin",
+      "bytes": 345984,
+      "sha256": "6871f58477a3ce63207961ab08720427a60868d8b60935ce665a3d03f17207b5"
+    },
+    {
+      "path": "models/lumen-grove/fir_tree_01-a-far.gltf",
+      "bytes": 6789,
+      "sha256": "793cf0d0ccdcca2d44654ede59fcf903be49a375de6f19767f1a0e5d81836bd3"
+    },
+    {
+      "path": "models/lumen-grove/fir_tree_01-a-far-0.bin",
+      "bytes": 92736,
+      "sha256": "0c091d2244f2db43ca1a38f1a00effbf71b0306b62c2651d00f172d36306682a"
+    },
+    {
+      "path": "models/lumen-grove/fir_sapling_medium.glb",
+      "bytes": 4208004,
+      "sha256": "cfd3cab7f5ba1e44575ee2c69a4c7110f75c866e4cf594dc1774fb3292c8770b"
+    },
+    {
+      "path": "models/lumen-grove/fern_02.glb",
+      "bytes": 1256432,
+      "sha256": "a2a58f02e2dc3539de6d0e1c5df4f8985fa5f48bf98b469b475ac01d5e258b04"
+    },
+    {
+      "path": "models/lumen-grove/tree_stump_01.glb",
+      "bytes": 3299524,
+      "sha256": "d58b94bd1654d85217fe77379acd4175e88dd6240716778f9e9db7a40ad62d39"
+    },
+    {
+      "path": "models/lumen-grove/rock_moss_set_02.glb",
+      "bytes": 2522772,
+      "sha256": "73144e9d42735c5e0dc74ef6f3e6742ef9d12806735185fa271d1fe5e817a66f"
+    },
+    {
+      "path": "models/lumen-grove/forrest_ground_01-diffuse.jpg",
+      "bytes": 337149,
+      "sha256": "a226dcf8bfd8bdff91e63e1c752e2a1c45d7330c19246aa674087861f509b554"
+    },
+    {
+      "path": "models/lumen-grove/forrest_ground_01-normal.jpg",
+      "bytes": 462771,
+      "sha256": "7033db56d0cdf4e3fb03a4b3e8a8ee9ecabeddcaa70b8cec1dcba8b14ddee0ec"
+    },
+    {
+      "path": "models/lumen-grove/forrest_ground_01-arm.jpg",
+      "bytes": 134619,
+      "sha256": "69d128dba26ceb50603b9098cdb6d035c39d1da9f1a183b841eb45695772cf59"
+    },
+    {
+      "path": "textures/negative-thoughts/rock_ground_diff_1k.jpg",
+      "bytes": 817925,
+      "sha256": "bec2573bc8aa9c714b690df753730e41f2077a1f0bbca83b13e055c86b4d5626"
+    },
+    {
+      "path": "textures/negative-thoughts/rock_ground_nor_gl_1k.jpg",
+      "bytes": 1430284,
+      "sha256": "eea3e980653ff19938326fe6416c717f69c1493d16caec54ce2797460157efbf"
+    },
+    {
+      "path": "textures/negative-thoughts/rock_ground_rough_1k.jpg",
+      "bytes": 521080,
+      "sha256": "2585e6eda380d10b081448fd98bc4e8c37b3e8947a26ec7d95d361920d36b2e7"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "third-party/runtime-assets.json",
+      "bytes": 8978,
+      "sha256": "83b6910cc3f1c8c5f59aad9d21e160292962b062337c3d6391ee0fdde8e66c50"
+    },
+    {
+      "path": "index.html",
+      "bytes": 698,
+      "sha256": "332ee3582dd6c42a0490d8c0d50547e13332cee39249c31c7feefb98cab44349"
+    },
+    {
+      "path": "fireflies/index.html",
+      "bytes": 1066,
+      "sha256": "554022a9c4e2fb4d0644b0edf466868bd35cd550c15fadf782143a38d847b154"
+    },
+    {
+      "path": "third-party/NOTICES.txt",
+      "bytes": 120236,
+      "sha256": "91a8fe044f6efcc45acb2836ed43bad347fee17bce7344a9a1df8b3112572646"
+    },
+    {
+      "path": "third-party/packages.json",
+      "bytes": 128181,
+      "sha256": "e2f984c7b7b4fd331c047180b892a27d598973e5b631424a456d6a663bdc82cd"
+    },
+    {
+      "path": "credits.html",
+      "bytes": 1513,
+      "sha256": "b6a5170645e1da4e645390500cadb1f773902bd9dba77ca90558ebbe77439d37"
+    },
+    {
+      "path": "third-party/release-status.json",
+      "bytes": 261,
+      "sha256": "72ecb7fd4fa2973013c290cf94faffe9c0e65fed87ac407b8a6b7738b01d5bb9"
+    }
+  ]
+}
