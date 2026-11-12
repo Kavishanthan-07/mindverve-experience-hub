@@ -22,18 +22,60 @@
       "source": "Mindverve project source"
     },
     {
-      "path": "panoramas/underwater-reef-360.jpg",
-      "bytes": 1084827,
-      "sha256": "9eb01e2fd14b87ffb7e3ba20b29891593e7d475a746db04f08d7084a75e99dd7",
+      "path": "panoramas/underwater-reef-360-clean.jpg",
+      "bytes": 663431,
+      "sha256": "431d968282e5ca6530a1c04d4156f01201cd1564325314aab66694f979a83198",
       "license": "CC-BY-SA-3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Heron_Bommie_SVII.jpg"
     },
     {
       "path": "licenses/UNDERWATER_360_ASSET.md",
-      "bytes": 1793,
-      "sha256": "b0c29046eebcf759558577aeb1e6e6306f5d6f74a70bc744155dfbe7806a6d4a",
+      "bytes": 3844,
+      "sha256": "a38bb880e110f32f029ecf0eb96e00d8be6ec428714e7d376636b9600037135c",
       "license": "Project-authored / accompanying notice",
       "source": "Mindverve project source"
+    },
+    {
+      "path": "panoramas/underwater-reef-360-clean-4k.jpg",
+      "bytes": 3148977,
+      "sha256": "8f61180688cd39e06ef78737a333517e1faf57cdeac219e7f0411d62209f1feb",
+      "license": "CC-BY-SA-3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Heron_Bommie_SVII.jpg"
+    },
+    {
+      "path": "panoramas/underwater-reef-360-clean-6k.jpg",
+      "bytes": 7050386,
+      "sha256": "c69276e0f8d84055f2e9221852416a003b994455cb47cdae8b2cba2ead5df617",
+      "license": "CC-BY-SA-3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Heron_Bommie_SVII.jpg"
+    },
+    {
+      "path": "models/fish/realistic-barramundi.glb",
+      "bytes": 930280,
+      "sha256": "69d34aae9a0476bb76a0f937456c63581664b8c236ed1b51399e01410e02c3d3",
+      "license": "CC0-1.0",
+      "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/8f492390ddc7a2ae221a1369ef560589cf8c70fb/Models/BarramundiFish"
+    },
+    {
+      "path": "licenses/UNDERWATER_FISH_ASSETS.md",
+      "bytes": 5068,
+      "sha256": "144465f70cbf4d5476f2bf39b9f725f78d0fd0e82e13813304a631810756ea30",
+      "license": "Project-authored / accompanying notice",
+      "source": "Mindverve project source"
+    },
+    {
+      "path": "models/fish/realistic-common-clownfish.glb",
+      "bytes": 1316724,
+      "sha256": "b6fa3318fd33c0330172b2e32c81457059bfa0bb61378bd524ea5ab2c0446939",
+      "license": "CC0-1.0",
+      "source": "https://www.innerscene.com/tools/library/3d-parts/common-clownfish-864bbb68"
+    },
+    {
+      "path": "models/fish/realistic-longsnout-seahorse.glb",
+      "bytes": 1512188,
+      "sha256": "92e9293b3dea8c733609acc2f66d043a62ccf430336dd69be10a2bd615ba20f4",
+      "license": "CC0-1.0",
+      "source": "https://www.innerscene.com/tools/library/3d-parts/longsnout-seahorse-c841c773"
     },
     {
       "path": "licenses/STAKEHOLDER_ASSETS.md",
@@ -219,8 +261,6 @@
     }
   ],
   "originalGeometry": [
-    "reef-slender-4b",
-    "reef-disk-4b",
     "stakeholder-manta",
     "reef-360-sphere",
     "reef-360-foreground",

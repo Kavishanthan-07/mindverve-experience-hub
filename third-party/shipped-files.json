@@ -7,44 +7,44 @@
       "sha256": "d96b3903053c73fa555a543a9e929f381d5357723ec90b203e3a064e6d1a281c"
     },
     {
-      "path": "assets/index-DzDG6IVW.js",
+      "path": "assets/index-CYTQY-Jk.js",
       "bytes": 194,
-      "sha256": "46fc2dd07751ca325f3d3d683c423249f1003bb0e2853ac1d831cf943a4c2e62"
+      "sha256": "97877edccbf552be0b54b1c6f74de3673bae876ec2a62b2e3e683110bdadb2c7"
     },
     {
-      "path": "assets/index-CdP0-Y8m.js",
+      "path": "assets/index-Mm5tokSc.js",
       "bytes": 745,
-      "sha256": "b1312f6c1f4e62016913a076a098aef785a2785f32c383d04b8f7cb48b9be5e3"
+      "sha256": "f138d04a8af2d08c0001a7d52168c20064c2f7678d393419ffa890cb8672bb9d"
     },
     {
-      "path": "assets/StakeholderNotices-D0CW-Drk.js",
-      "bytes": 2023140,
-      "sha256": "6ca8cba410b1b2ff8bd01f9909f3134bc575dd275d61b10c5896ce6f5ca0dcc6"
+      "path": "assets/StakeholderNotices-DHfGWED0.js",
+      "bytes": 2024354,
+      "sha256": "82482f5e7918a78fce6c68ffb46e459804e2713c04b6ca596948a78d1a31cfb7"
     },
     {
-      "path": "assets/MixedRealityPresentation-a7NWcL1h.js",
+      "path": "assets/MixedRealityPresentation-JJoYLLRb.js",
       "bytes": 3597,
-      "sha256": "8ea8954ad1d66dd026e4e4f9943baaeec3a54275de84bde0a11d03d8c21fe502"
+      "sha256": "bcfb26067e16c26fe3185e5f6510c1d4fabcc5ff3b1ebdac96b48789ad58d9b4"
     },
     {
-      "path": "assets/NegativeThoughtsExperience-VXsqeFKT.js",
+      "path": "assets/NegativeThoughtsExperience-CqDOP3bq.js",
       "bytes": 41581,
-      "sha256": "63b281b3634f283871e74f7721628e3d41db153b550f5944cba9f23157473b01"
+      "sha256": "7c08991bedeff0231baef584e66b93b664e87f8c221a7fdc4e5ff55c810fe5e6"
     },
     {
-      "path": "assets/FireflyBreathingSystem-3DNAkuB8.js",
+      "path": "assets/FireflyBreathingSystem-CD5Mf760.js",
       "bytes": 59973,
-      "sha256": "9d621be71ade11c8d679457001a7435a8ad8e41e702c775f55bdc9b31024a43b"
+      "sha256": "a5a9a2f3b77f1c62ad9c78d1975a218c72ff92562cb4e1a620f367d9cc825ff5"
     },
     {
-      "path": "assets/FireflyInput-CkISnsYy.js",
+      "path": "assets/FireflyInput-BoeJVIT4.js",
       "bytes": 3469,
-      "sha256": "a4d01fdd777961e1f610d33f7ee305038ee27a4549dbbb7f848037007e0f2995"
+      "sha256": "aa8b25f4a8f393dc9a1f38b768f852ba45135eba4f493cb1dd2fd667d6f07447"
     },
     {
-      "path": "assets/ReefBreathingSystem-CqRBOcRA.js",
-      "bytes": 89692,
-      "sha256": "7bd4928b7a4a567a8d002fcb12a908d7123562845793e741a9a803ded4ffcbbe"
+      "path": "assets/ReefBreathingSystem-DwbVzYIH.js",
+      "bytes": 102355,
+      "sha256": "5b9c264f88f027fe42a3b97eb7428ab7471612901063e9f3e351940efeacfd81"
     },
     {
       "path": "assets/BreathEngine-BZWmQbMT.js",
@@ -52,9 +52,9 @@
       "sha256": "b84bf22ec72875f2a8e11d9ec47610b073fc125980f226504f53544abef2194c"
     },
     {
-      "path": "assets/world-initializer-BQ3Y73bA.js",
+      "path": "assets/world-initializer-Bd6M8nQf.js",
       "bytes": 45235,
-      "sha256": "ececce5da7c0b0176e3dc6f7d59e2df264aad294835db94ccbd21b07427152e8"
+      "sha256": "311aa858c207770d9f29fb62c1cc45a01e9235b4527f1da24a1826d559d6ca8a"
     },
     {
       "path": "assets/worker-BkRtSCqm.js",
@@ -67,19 +67,19 @@
       "sha256": "0f505b9034d93f4c0f7eb094ce4db429f4bf813639a1feb8ecbf01ca47a9d39e"
     },
     {
-      "path": "assets/start-experience-CcWnQfar.js",
+      "path": "assets/start-experience-DF-HDh_X.js",
       "bytes": 19142,
-      "sha256": "ddb912e4f51e577043f123ea2dc024338fc60620582ef7b54714a60a1a11a6a8"
+      "sha256": "b5bb3c7513b886c442e43739c843ab1821a39ced138df92a209cc21f94b37faa"
     },
     {
-      "path": "assets/index-BGKXAl_E.js",
+      "path": "assets/index-Cz11LV__.js",
       "bytes": 21283,
-      "sha256": "f86e81801991aecb54f33d739fe88fa14251f6953c3dacd76033748e769407fd"
+      "sha256": "3e8915cec0ce1cf827d6948d5422879afdf53207bee902ddb3acfc4a2cdd1ada"
     },
     {
-      "path": "assets/physics-runtime-yJ2ZI1IS.js",
+      "path": "assets/physics-runtime-B_E5iARi.js",
       "bytes": 6353,
-      "sha256": "c793eea0eb74baa570482f2c155a9db2fdec71cff048639468aa680e7de541d4"
+      "sha256": "cfb1bea2e955c95abe09e448c3abff6f6b36e07c9c902ade97c46a0c1eeb2c75"
     },
     {
       "path": "assets/physics-worker-C0UdwKyG.js",
@@ -102,14 +102,44 @@
       "sha256": "ddeda3eb53b167159655780cd608f16bf9fe2cc07eb569c32f585dc40977db65"
     },
     {
-      "path": "panoramas/underwater-reef-360.jpg",
-      "bytes": 1084827,
-      "sha256": "9eb01e2fd14b87ffb7e3ba20b29891593e7d475a746db04f08d7084a75e99dd7"
+      "path": "panoramas/underwater-reef-360-clean.jpg",
+      "bytes": 663431,
+      "sha256": "431d968282e5ca6530a1c04d4156f01201cd1564325314aab66694f979a83198"
     },
     {
       "path": "licenses/UNDERWATER_360_ASSET.md",
-      "bytes": 1793,
-      "sha256": "b0c29046eebcf759558577aeb1e6e6306f5d6f74a70bc744155dfbe7806a6d4a"
+      "bytes": 3844,
+      "sha256": "a38bb880e110f32f029ecf0eb96e00d8be6ec428714e7d376636b9600037135c"
+    },
+    {
+      "path": "panoramas/underwater-reef-360-clean-4k.jpg",
+      "bytes": 3148977,
+      "sha256": "8f61180688cd39e06ef78737a333517e1faf57cdeac219e7f0411d62209f1feb"
+    },
+    {
+      "path": "panoramas/underwater-reef-360-clean-6k.jpg",
+      "bytes": 7050386,
+      "sha256": "c69276e0f8d84055f2e9221852416a003b994455cb47cdae8b2cba2ead5df617"
+    },
+    {
+      "path": "models/fish/realistic-barramundi.glb",
+      "bytes": 930280,
+      "sha256": "69d34aae9a0476bb76a0f937456c63581664b8c236ed1b51399e01410e02c3d3"
+    },
+    {
+      "path": "licenses/UNDERWATER_FISH_ASSETS.md",
+      "bytes": 5068,
+      "sha256": "144465f70cbf4d5476f2bf39b9f725f78d0fd0e82e13813304a631810756ea30"
+    },
+    {
+      "path": "models/fish/realistic-common-clownfish.glb",
+      "bytes": 1316724,
+      "sha256": "b6fa3318fd33c0330172b2e32c81457059bfa0bb61378bd524ea5ab2c0446939"
+    },
+    {
+      "path": "models/fish/realistic-longsnout-seahorse.glb",
+      "bytes": 1512188,
+      "sha256": "92e9293b3dea8c733609acc2f66d043a62ccf430336dd69be10a2bd615ba20f4"
     },
     {
       "path": "licenses/STAKEHOLDER_ASSETS.md",
@@ -248,18 +278,18 @@
     },
     {
       "path": "third-party/runtime-assets.json",
-      "bytes": 8978,
-      "sha256": "83b6910cc3f1c8c5f59aad9d21e160292962b062337c3d6391ee0fdde8e66c50"
+      "bytes": 10749,
+      "sha256": "c95f86af971d2cfff267049fcf8845b6cf7b251c5e2f49e62b6b8d026e82b306"
     },
     {
       "path": "index.html",
       "bytes": 698,
-      "sha256": "332ee3582dd6c42a0490d8c0d50547e13332cee39249c31c7feefb98cab44349"
+      "sha256": "da9a5a3da3bbf7971f3c2eecd146e4106842a75d00d91f89113a16238728611a"
     },
     {
       "path": "fireflies/index.html",
       "bytes": 1066,
-      "sha256": "554022a9c4e2fb4d0644b0edf466868bd35cd550c15fadf782143a38d847b154"
+      "sha256": "de459b2b077f0c3d248fb576272ce961908ef06685f44f026b374abb90b1ef3a"
     },
     {
       "path": "third-party/NOTICES.txt",
@@ -273,8 +303,8 @@
     },
     {
       "path": "credits.html",
-      "bytes": 1513,
-      "sha256": "b6a5170645e1da4e645390500cadb1f773902bd9dba77ca90558ebbe77439d37"
+      "bytes": 1814,
+      "sha256": "d65e405e1952303e66a169d9edc53d0c68f3b5ef02501582c8cb3ed64365fd5e"
     },
     {
       "path": "third-party/release-status.json",
